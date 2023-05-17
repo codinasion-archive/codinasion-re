@@ -1,81 +1,75 @@
-# Turborepo starter
+<h1 align="center">Codinasion</h1>
 
-This is an official starter Turborepo.
+<div align="center">
 
-## Using this example
+An Open Source community, dedicated to Open Source projects
 
-Run the following command:
+[![License](https://img.shields.io/github/license/codinasion/codinasion)](https://github.com/codinasion/codinasion/blob/master/LICENSE.md "MIT License") [![Github Repo Size](https://img.shields.io/github/repo-size/codinasion/codinasion "Repo Size")](https://github.com/codinasion/codinasion) [![Github Contributors](https://img.shields.io/github/contributors/codinasion/codinasion "Contributors")](https://github.com/codinasion/codinasion/graphs/contributors) [![Github Last Commit](https://img.shields.io/github/last-commit/codinasion/codinasion "Last Commit")](https://github.com/codinasion/codinasion/graphs/commit-activity)
 
-```sh
-npx create-turbo@latest
-```
+<a href="https://vercel.com/?utm_source=codinasion&utm_campaign=oss" target="_blank">
+  <img src="assets/powered-by-vercel.svg" alt="Powered By Vercel" width="170">
+</a>
 
-## What's inside?
+</div>
 
-This Turborepo includes the following packages/apps:
+<div align="center">
+  <img src="https://raw.githubusercontent.com/codinasion/codinasion/master/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
+</div>
 
-### Apps and Packages
+## Contributing
 
-- `docs`: a [Next.js](https://nextjs.org/) app
-- `web`: another [Next.js](https://nextjs.org/) app
-- `ui`: a stub React component library shared by both `web` and `docs` applications
-- `eslint-config-custom`: `eslint` configurations (includes `eslint-config-next` and `eslint-config-prettier`)
-- `tsconfig`: `tsconfig.json`s used throughout the monorepo
+If you're looking for a way to contribute, you can scan through our existing issues for something to work on.
+We want to make contributing to this project as easy and transparent as possible, and we are grateful to the community for contributing bug fixes and improvements. Read our [Contributing Guide](CONTRIBUTING.md) how you can take part in improving hello-world.
 
-Each package/app is 100% [TypeScript](https://www.typescriptlang.org/).
+<div align="center">
+  <img src="https://raw.githubusercontent.com/codinasion/codinasion/master/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
+</div>
 
-### Utilities
+## Join us in discussions
 
-This Turborepo has some additional tools already setup for you:
+We use GitHub Discussions to talk about all sorts of topics related to documentation and this site. For example: if you'd like help troubleshooting a PR, have a great new idea, or want to share something amazing, join us in the [discussions](https://github.com/orgs/codinasion/discussions).
 
-- [TypeScript](https://www.typescriptlang.org/) for static type checking
-- [ESLint](https://eslint.org/) for code linting
-- [Prettier](https://prettier.io) for code formatting
+<div align="center">
+  <img src="https://raw.githubusercontent.com/codinasion/codinasion/master/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
+</div>
 
-### Build
+<br>
 
-To build all apps and packages, run the following command:
+<table>
+  <tr>
+    <td>
+    <img align="left" src="https://raw.githubusercontent.com/codinasion/codinasion/master/assets/octocat.png" width="190">
+    <h3>Thanks for contributing :purple_heart:</h3>
+    <ul>
+      <li>Thanks for all your contributions and efforts</li>
+      <li>We thank you being part of our :sparkles: commUnity :sparkles: !</li>
+    </ul>
+    <img width="900" height="0">
+    </td>
+  </tr>
+</table>
 
-```
-cd my-turborepo
-pnpm build
-```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/codinasion/codinasion/master/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
+</div>
 
-### Develop
+<br/>
 
-To develop all apps and packages, run the following command:
+<p align="center">
+Made with 💖 by Codinasion
+</p>
 
-```
-cd my-turborepo
-pnpm dev
-```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/codinasion/codinasion/master/assets/rainbow-hr.png" alt="rainbow hr" width="100%" height="70%">
+</div>
 
-### Remote Caching
-
-Turborepo can use a technique known as [Remote Caching](https://turbo.build/repo/docs/core-concepts/remote-caching) to share cache artifacts across machines, enabling you to share build caches with your team and CI/CD pipelines.
-
-By default, Turborepo will cache locally. To enable Remote Caching you will need an account with Vercel. If you don't have an account you can [create one](https://vercel.com/signup), then enter the following commands:
-
-```
-cd my-turborepo
-npx turbo login
-```
-
-This will authenticate the Turborepo CLI with your [Vercel account](https://vercel.com/docs/concepts/personal-accounts/overview).
-
-Next, you can link your Turborepo to your Remote Cache by running the following command from the root of your Turborepo:
-
-```
-npx turbo link
-```
-
-## Useful Links
-
-Learn more about the power of Turborepo:
-
-- [Tasks](https://turbo.build/repo/docs/core-concepts/monorepos/running-tasks)
-- [Caching](https://turbo.build/repo/docs/core-concepts/caching)
-- [Remote Caching](https://turbo.build/repo/docs/core-concepts/remote-caching)
-- [Filtering](https://turbo.build/repo/docs/core-concepts/monorepos/filtering)
-- [Configuration Options](https://turbo.build/repo/docs/reference/configuration)
-- [CLI Usage](https://turbo.build/repo/docs/reference/command-line-reference)
+[1]: https://img.shields.io/github/license/codinasion/codinasion
+[2]: https://github.com/codinasion/codinasion/blob/master/LICENSE.md "License"
+[3]: https://img.shields.io/github/repo-size/codinasion/codinasion "Repo Size"
+[4]: https://github.com/codinasion/codinasion
+[5]: https://img.shields.io/github/contributors/codinasion/codinasion "Contributors"
+[6]: https://github.com/codinasion/codinasion/graphs/contributors
+[7]: https://img.shields.io/github/last-commit/codinasion/codinasion "Last Commit"
+[8]: https://github.com/codinasion/codinasion/graphs/commit-activity
+[9]: ./CONTRIBUTING.md "Contributing Guide"
+[10]: https://github.com/codinasion/codinasion/discussions "Discussions"
