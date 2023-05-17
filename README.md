@@ -38,7 +38,7 @@ We use GitHub Discussions to talk about all sorts of topics related to documenta
 <table>
   <tr>
     <td>
-    <img align="left" src="https://raw.githubusercontent.com/codinasion/.github/master/assets/octocat.png" width="190">
+    <img align="left" src="https://raw.githubusercontent.com/codinasion/codinasion/master/assets/octocat.png" width="190">
     <h3>Thanks for contributing :purple_heart:</h3>
     <ul>
       <li>Thanks for all your contributions and efforts</li>
