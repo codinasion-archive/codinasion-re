@@ -35,20 +35,21 @@ Scan through our [existing issues][11] to find one that interests you. You can n
 
 2. Clone the forked repository.
 
-  ```bash
-  git clone https://github.com/your_username/codinasion
-  ```
+   ```bash
+   git clone https://github.com/your_username/codinasion
+   ```
 
 3. Create a working branch and start with your changes!
 
-  ```bash
-  git checkout -b your-new-branch-name
-  ```
+   ```bash
+   git checkout -b your-new-branch-name
+   ```
 
 4. Make changes locally.
-  - Add new features
-  - Fix bugs
-  - Improve documentation, code quality, performance, accessibility, user experience, user interface, etc...
+
+   - Add new features
+   - Fix bugs
+   - Improve documentation, code quality, performance, accessibility, user experience, user interface, etc...
 
 ### Commit your update
 
@@ -74,13 +75,13 @@ Once your PR is merged, your contributions will be publicly visible on the [codi
 
 ---
 
-[1]: https://codinasion.org (codinasion.org)
-[2]: ./CODE_OF_CONDUCT.md (Code of Conduct)
-[3]: ./README.md (README)
-[4]: https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github (Finding ways to contribute to open source on GitHub)
-[5]: https://docs.github.com/en/get-started/quickstart/set-up-git (Set up Git)
-[6]: https://docs.github.com/en/get-started/quickstart/github-flow (GitHub flow)
-[7]: https://docs.github.com/en/get-started/quickstart/collaborating-with-issues-and-pull-requests (Collaborating with pull requests)
+[1]: https://codinasion.org "codinasion.org"
+[2]: ./CODE_OF_CONDUCT.md "Code of Conduct"
+[3]: ./README.md "README"
+[4]: https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github "Finding ways to contribute to open source on GitHub"
+[5]: https://docs.github.com/en/get-started/quickstart/set-up-git "Set up Git"
+[6]: https://docs.github.com/en/get-started/quickstart/github-flow "GitHub flow"
+[7]: https://docs.github.com/en/get-started/quickstart/collaborating-with-issues-and-pull-requests "Collaborating with pull requests"
 [9]: https://github.com/codinasion/codinasion/issues "Issues"
 [10]: https://github.com/codinasion/codinasion/issues/new/choose "Issue Template"
 [11]: https://github.com/search?q=is:open+user:codinasion&type=Issues "Codinasion Open Issues"

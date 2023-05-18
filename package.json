@@ -2,13 +2,15 @@
   "private": true,
   "scripts": {
     "build": "turbo run build",
-    "dev": "turbo run dev",
+    "build:local": "dotenv -- turbo run build",
+    "dev": "dotenv -- turbo run dev",
     "lint": "turbo run lint",
     "clean": "turbo run clean",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,md,mdx,json}\"",
-    "all": "pnpm run clean && pnpm run lint && pnpm run build && pnpm run format"
+    "all": "pnpm run clean && pnpm run lint && pnpm run build:local && pnpm run format"
   },
   "devDependencies": {
+    "dotenv-cli": "latest",
     "eslint": "^7.32.0",
     "eslint-config-custom": "workspace:*",
     "prettier": "^2.7.1",
