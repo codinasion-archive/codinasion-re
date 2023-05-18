@@ -12,8 +12,8 @@ export async function GET(
   slug = slug.toLowerCase();
 
   // decode special characters
-  slug = slug.replace(/\-sharp/g, "#");
-  slug = slug.replace(/\-plus/g, "+");
+  slug = slug.replace(/-sharp/g, "#");
+  slug = slug.replace(/-plus/g, "+");
 
   // Get all the programs
   const res = await fetch(`${process.env.BACKEND_URL}/program/`, {
